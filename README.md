@@ -2,7 +2,7 @@
 python version 3.13.0
 1. 가상환경 만들기
 ```
-$ py -3.13 -m venv myvenv
+$ py -3.12 -m venv myvenv
 ```
 2. 가상환경 실행하기
 ```
