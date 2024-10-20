@@ -1,5 +1,5 @@
 ### 프로젝트 시작
-python version 3.13.0
+python version 3.12.4
 
 **1. 가상환경 만들기**
 ```
